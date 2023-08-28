@@ -1,0 +1,46 @@
+****Git Commands****
+git init
+git config --global user.email "mail"
+git config --global user.name "name"
+git add ./filename
+git status
+git commit -m "message"
+git remote -v
+git remote add <aliasname> <branch>
+git push <aliasname> <branch>
+git checkout
+git checkout -b branchname
+git switch branch
+git merge branchname
+git branch
+git reset <filename>
+    --hard
+    --soft
+git revert <filename>
+git log
+git tag <tagname>
+git tag < tagname> <commit id>
+git diff <from branch> <branch>
+git push origin --tags/tag
+git clone
+git pull
+git fetch
+
+
+*****
+ls
+ls -a
+touch
+vi 
+echo
+mkdir
+rm
+cat
+pwd
+cd
+
+
+
+
+
+
